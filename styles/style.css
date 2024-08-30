@@ -118,3 +118,38 @@ header {
   line-height: 35px;
   /* text-decoration: underline; */
 }
+
+/* emoji section style */
+
+#emoji {
+  padding: 100px 0px;
+  margin: 128px 240px 128px 240px;
+}
+.emoji-container {
+  background: rgb(199, 248, 184);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 65px;
+  padding: 90px 0px;
+}
+.emoji-container .men {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.emoji-container .flower {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.emoji-container .call {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
